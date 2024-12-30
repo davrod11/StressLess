@@ -2,8 +2,8 @@
 
 This repository contains a folder of the android app "StressLess" developed in CMEB course, in the year 2024-2025 (FEUP).
 - Link for the presentation: 
-- Link for the report: 
-- Link for the teaser:
+- Link for the report: https://redmine.fe.up.pt/projects/stresslessduo/wiki
+- Link for the teaser: https://www.youtube.com/watch?v=rXxvvIVF9sU
 
 ## Authors
 - David Oliveira Rodrigues (202107637)
