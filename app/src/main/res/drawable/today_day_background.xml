@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#B2DFDB" /> <!-- Cor azul claro para o fundo do dia de hoje -->
+    <corners android:radius="8dp" /> <!-- Bordas arredondadas -->
+</shape>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="shadow_black">#99000000</color>
+    <color name="clean_gray">#646363</color>
+    <color name="pink">#CB3D78</color>
+    <color name="light_pink">#F3E1E9</color>
+    <color name="light_pink2">#80F3E1E9</color>
+    <color name="lavender">#8692F7</color>
+    <color name="blue">#4280C7</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="custom_button_background">#FFFFFF</color>
+    <color name="teal_700">#00897B</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="gray">#BDBDBD</color>
+    <color name="green">#1C6D14</color>
+    <color name="light_blue">#E3F2FD</color> <!-- Low Stress -->
+    <color name="light_orange">#FFE0B2</color> <!-- Medium Stress -->
+    <color name="light_red">#FFCDD2</color> <!-- High Stress -->
+    <color name="orange">#FF5722</color> <!-- Medium Stress -->
+    <color name="red">#F44336</color> <!-- High Stress -->
+    <color name="icon_low">#1E88E5</color> <!-- Ícones para Stress Baixo -->
+    <color name="icon_medium">#FF7043</color> <!-- Ícones para Stress Médio -->
+    <color name="icon_high">#D32F2F</color> <!-- Ícones para Stress Alto -->
+
+    <color name="low_stress_card">#E0F7FA</color>
+    <color name="medium_stress_card">#FFF9C4</color>
+    <color name="high_stress_card">#FFCDD2</color>
+
+    <!-- Text Colors -->
+    <color name="secondary_text">#757575</color>
+
+    <!-- Dividers and Borders -->
+    <color name="divider">#BDBDBD</color>
+    <color name="card_border">#E0E0E0</color>
+
+    <!-- Icon Color -->
+
+    <color name="card_background">#FFFFFF</color> <!-- White -->
+    <color name="low_stress_background">#DFF6DD</color> <!-- Light Green -->
+    <color name="medium_stress_background">#FFF4CC</color> <!-- Light Yellow -->
+    <color name="high_stress_background">#FFD6D6</color> <!-- Light Red -->
+
+
+
+    <color name="icon_color">#424242</color>
+</resources>

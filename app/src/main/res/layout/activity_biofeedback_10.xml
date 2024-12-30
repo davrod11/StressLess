@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/relax2">
+
+    <ImageView
+        android:id="@+id/animatedPolygon"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/animated_polygon" />
+
+    <TextView
+        android:id="@+id/messageText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_alignTop="@id/animatedPolygon"
+        android:layout_alignBottom="@id/animatedPolygon"
+        android:layout_centerHorizontal="true"
+        android:text="@string/feel_the_calm_flow"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:shadowColor="#502F3A"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="3" />
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:text="@string/exit"
+        android:backgroundTint="#D38D90"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/calendar"
+        android:title="Calendar"
+        android:icon="@drawable/calendar" />
+    <item
+        android:title=""/>
+    <item
+        android:id="@+id/exercises"
+        android:title="Statistics"
+        android:icon="@drawable/statistics"
+        />
+    <item
+        android:id="@+id/reports"
+        android:title="Profile"
+        android:icon="@drawable/profile" />
+</menu>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">StressLess</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="gender_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System Default</item>
+    </string-array>
+    <string-array name="unit_options">
+        <item>Metric (mmHg)</item>
+        <item>Imperial (psi)</item>
+    </string-array>
+    <string name="menu_settings">Settings</string>
+    <string name="go_back">Go Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string-array name="sport_practice_options">
+        <item>Never</item>
+        <item>Occasional</item>
+        <item>Regular</item>
+    </string-array>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_description">
+Welcome to StressLess! Our app is designed to help you monitor and manage your stress levels effectively using advanced biofeedback technology. With real-time heart rate variability (HRV) tracking, personalized recommendations, and interactive exercises, our goal is to make stress management accessible and engaging.
+</string>
+    <string name="our_team">Our Team</string>
+    <string name="team"><![CDATA[David Rodrigues & Duarte Dias]]></string>
+    <string name="contact_us">Contact Us</string>
+    <string name="app_logo">StressLess Logo</string>
+    <string name="exit">Exit</string>
+    <string name="feel_the_calm_flow">Feel the calm flow</string>
+    <string name="todo">TODO</string>
+    <string name="relax_your_mind">Relax your mind</string>
+    <string name="stressless_app">StressLess App</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+</resources>

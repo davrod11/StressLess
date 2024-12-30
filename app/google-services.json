@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955884463325",
+    "project_id": "streesss-177bb",
+    "storage_bucket": "streesss-177bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955884463325:android:0b5118e688a8fea4032734",
+        "android_client_info": {
+          "package_name": "com.example.stressless"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhfmzwEfZEkgwjkNQY15W2o99spguaUmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
